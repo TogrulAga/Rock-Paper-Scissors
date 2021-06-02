@@ -2,3 +2,4 @@ content:
 - Sep and end arguments of print
 - Quotes and multi-line strings
 - Flush and file arguments of print
+- Conversion to boolean
